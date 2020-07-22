@@ -85,6 +85,10 @@ Car.prototype.fill = function(gallons) {
     this.tank += gallons;
 }
 
+Car.prototype.drive = function(distance) {
+    
+}
+
 
 /*
   TASK 3
